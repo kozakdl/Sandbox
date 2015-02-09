@@ -1,2 +1,2 @@
 # Sandbox
-Play area
+Sandbox area for playing with git.
