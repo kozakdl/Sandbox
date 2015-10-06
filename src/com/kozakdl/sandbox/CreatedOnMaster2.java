@@ -1,10 +1,8 @@
 package com.kozakdl.sandbox;
 
-public class CreatedOnMaster {
-
+public class CreatedOnMaster2 {
 	public static void main(String[] args) {
-		System.out.println("This class created on the master.");
+		System.out.println("created on master 2");
 		System.out.println("Master change 3");
 	}
-
 }
