@@ -8,6 +8,7 @@ public class CreatedOnMaster {
 		System.out.println("Modified on example branch 1");
         System.out.println("Change on master with conflict on example-branch-1");
         System.out.println("No conflict with example-branch-1");
+        System.out.println("Changed on Master to conflict with example-branch-egit");
 	}
 
 }
