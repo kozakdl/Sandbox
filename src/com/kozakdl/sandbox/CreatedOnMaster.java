@@ -7,6 +7,7 @@ public class CreatedOnMaster {
 		System.out.println("Master change 3");
 		System.out.println("Modified on example branch 1");
         System.out.println("Change on master with conflict on example-branch-1");
+        System.out.println("No conflict with example-branch-1");
 	}
 
 }
