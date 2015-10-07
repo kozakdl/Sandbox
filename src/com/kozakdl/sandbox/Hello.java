@@ -6,6 +6,7 @@ public class Hello {
         System.out.println("Hello!");
         System.out.println("Branch!");
         System.out.println("Changed on the master without conflict");
+        System.out.println("Changed on the master without conflict 2");
     }
 
 }
