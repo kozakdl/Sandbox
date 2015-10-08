@@ -11,6 +11,7 @@ public class CreatedOnMaster {
         System.out.println("Modified on example-branch-egit");
         System.out.println("Changed on Master to conflict with example-branch-egit");
         System.out.println("Modified on example-branch-egit 2");
+        System.out.println("Modified on master");
 	}
 
 }
