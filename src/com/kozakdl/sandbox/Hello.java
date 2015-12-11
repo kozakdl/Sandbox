@@ -7,7 +7,7 @@ public class Hello {
         System.out.println("Branch!");
         System.out.println("Changed on the master without conflict");
         System.out.println("Changed on the master without conflict 2");
-        System.out.println("Changed on the master without conflict 3");
+        System.out.println("Changed on the master without conflict 3 force conflict (local) and (remote)");
     }
 
 }
